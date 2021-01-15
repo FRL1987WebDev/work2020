@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    font-size: 2rem;
+    text-decoration: underline;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p,li{
+    text-align: left;
+    font-size: 1rem;
+    font-family: 'Barlow', sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: red;
+}

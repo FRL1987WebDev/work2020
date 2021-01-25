@@ -1,0 +1,143 @@
+/* MARGIN PADDING MAIN ELEMENTS  */
+
+body,h1,nav,ul,li,p,section,div,h2{
+    margin: 0;
+}
+
+
+ul{
+    padding-left: 0;
+    margin-left: 0;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Grandstander', cursive;
+    padding: 20px;
+}
+
+/* NAVBAR */
+
+.navbar-containter{
+    background-color: #321f28;
+    color: white;
+}
+
+.navbar_item{
+    margin: 0;
+    display: inline;
+    padding-right: 20px;
+    padding-top: 15px;
+}
+
+/* HEADER */
+
+.head_father{
+    width: 100%;
+    background-color: #734046;
+    text-align: center;
+}
+
+.head_son{
+    margin: auto;
+    width: 60%;
+}
+
+.head_junk{
+    height: 250px;
+    width: 250px;
+    margin-top: 10px;
+}
+
+.head_text{
+    font-weight: bolder;
+    font-family: 'Grandstander', cursive;
+    font-size: 1.75rem;
+    line-height: 1.5;
+    text-shadow: 1.5px 1.5px #ffffff;
+    padding-top: 10px;
+}
+
+.head_img{
+    height: 200px;
+    width: 400px;
+    padding-top: 50px;
+}
+
+.btn{
+    font-family: 'Grandstander', cursive;
+    font-size: 18px;
+    padding: 5px;
+    background-color: black;
+    color: red;
+    box-shadow: 2px 2px #ffffff;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+/* MID ONE */
+
+.midone_father{
+    background-color: #a05344;
+    width:100%;
+    text-align: center;    
+}
+
+.meals{
+    width: 175px;
+    height: 175px;
+    border-radius: 100px;
+    margin: 50px;
+    margin-bottom: 10px;
+
+}
+
+/* MID TWO */
+
+.midtwo_father{    
+        background-color: #a05344;
+        width:100%;
+        text-align: center;    
+}
+
+.drink{
+    padding-top: 10px;
+    width: 175px;
+    height: 175px;
+    border-radius: 100px;
+    margin: 50px;
+    margin-bottom: 25px;
+}
+
+/* FOOTER */
+
+.footer_father{
+    width:100%;
+    text-align: center; 
+    background-color: #a05344;  
+}
+
+.footer_img{
+    width: 50px;
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.num_father{
+    width:100%;
+    text-align: center;
+}
+
+.num_son{
+    margin: 0;
+}
+
+.number{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-shadow: 1.5px 1.5px #ffffff;
+    font-family: 'Grandstander', cursive;
+    font-size: 18px;
+}
